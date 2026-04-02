@@ -83,9 +83,6 @@
   <a href="https://instagram.com/iamasher_x">
     <img src="https://img.shields.io/badge/Instagram-@iamasher_x-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://snapchat.com/add/theartistwave">
-    <img src="https://img.shields.io/badge/Snapchat-@theartistwave-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
-  </a>
   
 </p>
 
