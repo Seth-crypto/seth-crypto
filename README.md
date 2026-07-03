@@ -37,7 +37,7 @@ Create software that solves real problems.
 ##  ARSENAL
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,react,git,c#,github,figma,photoshop,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css,react,git,github,figma,ps&theme=dark"/>
 </p>
 
 ```
